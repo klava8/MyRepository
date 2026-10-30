@@ -1,0 +1,2 @@
+My first Git repository
+Learning clone, add, commit and push.
